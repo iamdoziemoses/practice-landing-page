@@ -3,8 +3,6 @@
 ## 👇 WATCH THIS FIRST 👇
 ## https://tinyurl.com/customizeReactPortfolio
 
-![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
-
 ## <a href="https://leonardokurniawan.netlify.app//">LIVE DEMO</a>
 
 ## Description
